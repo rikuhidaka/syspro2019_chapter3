@@ -10,4 +10,5 @@ for i in range(10):
 	GPIO.output(14, False)
 	time.sleep(0.5)
 
+
 GPIO.cleanup()
